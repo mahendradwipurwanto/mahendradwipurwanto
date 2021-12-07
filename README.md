@@ -7,12 +7,8 @@ A <b>self-taughted</b> FullStack web developer from Indonesian.
 - 👨‍💻 I’m currently learning **PHP**, **Python** & **FLUTTER**.
 - ✨ Check out my [codetype.com page](https://codetype.com/mahendradwipurwanto)
 
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=mahendradwipurwanto&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 <br />
-<br />
-<br />
-<br />
-<br />
-
 <p align="center">
   <b>Languages and Tools:</b>  
 </p>
@@ -38,8 +34,4 @@ A <b>self-taughted</b> FullStack web developer from Indonesian.
     <a href="https://kaiz.vercel.app/now-playing?open">
         <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
     </a>
-</p>
-
-<p align="center">
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=mahendradwipurwanto&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)  
 </p>
