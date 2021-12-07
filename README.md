@@ -2,7 +2,8 @@
 
 ### Hi there, I'm Mahendra Dwi Purwanto <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
-A **self-taughted** FullStack web developer from Indonesian.
+<br />
+A <b>self-taughted</b> FullStack web developer from Indonesian.
 
 - 👨‍🎓 associate's degree in computer science
 - 👨‍💻 I’m currently learning **PHP**, **Python** & **FLUTTER**.
@@ -12,9 +13,10 @@ A **self-taughted** FullStack web developer from Indonesian.
 <br />
 <br />
 <br />
+<br />
 
 <p align="center">
-  **Languages and Tools:**  
+  <b>Languages and Tools:</b>  
 </p>
 
 <p align="center">
@@ -29,10 +31,9 @@ A **self-taughted** FullStack web developer from Indonesian.
 <br />
 
 <p align="center">
-  *NOTE: Top languages does not indicate my skill level or something like that, it's a Github metric of which languages i have the most __**public**__ code on Github*
+  <b>NOTE</b>: Top languages does not indicate my skill level or something like that, it's a Github metric of which languages i have the most <i><b>public</b></i> code on Github
 </p>
 
-<br />
 <br />
 
 <p align="center">
