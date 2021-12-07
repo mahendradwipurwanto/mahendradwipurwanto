@@ -1,5 +1,3 @@
-<img src="https://github.com/ful1e5/ful1e5/blob/main/assets/lines.svg" align="left" width="300" alt="ful1e5"/>
-
 ### Hi there, I'm Mahendra Dwi Purwanto <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
 <br />
@@ -40,4 +38,8 @@ A <b>self-taughted</b> FullStack web developer from Indonesian.
     <a href="https://kaiz.vercel.app/now-playing?open">
         <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
     </a>
+</p>
+
+<p align="center">
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=mahendradwipurwanto&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)  
 </p>
