@@ -5,7 +5,7 @@ A <b>self-taughted</b> FullStack web developer from Indonesian.
 
 - 👨‍🎓 associate's degree in computer science
 - 👨‍💻 I’m currently learning **PHP**, **Python** & **FLUTTER**.
-- ✨ Check out my [github.io/mahendradwipurwanto page](https://github.io/mahendradwipurwanto)
+- ✨ Check out my [mahendradwipurwanto.github.io page](https://mahendradwipurwanto.github.io)
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=mahendradwipurwanto&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 <br />
