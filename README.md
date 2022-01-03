@@ -31,7 +31,7 @@ A <b>self-taughted</b> FullStack web developer from Indonesian.
 <br />
 
 <p align="center">
-    <a href="https://kaiz.vercel.app/now-playing?open">
+    <a href="https://open.spotify.com/playlist/4VuOfnyrmixZr35QEFg5E5?si=f2fd2694c18c49e4">
         <img src="https://kaiz.vercel.app/now-playing" width="500px" height="auto" alt="Kaiz Playing Now">
     </a>
 </p>
